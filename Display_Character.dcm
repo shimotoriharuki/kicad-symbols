@@ -6,6 +6,12 @@ K display RGB LED digit 7-segment
 F http://usasyck.com/products/AD-121F2_cat_e.pdf
 $ENDCMP
 #
+$CMP AQM0802A-FLW-GBW
+D LCD with Backlight
+K lcd
+F https://akizukidenshi.com/download/ds/xiamen/AQM0802A-FLW-GBW.pdf
+$ENDCMP
+#
 $CMP CA56-12CGKWA
 D 4 digit 7 segment Green LED, common anode
 K display LED
