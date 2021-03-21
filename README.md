@@ -1,2 +1,4 @@
-## :warning: 301 Moved Permanently
-Location: https://gitlab.com/kicad/libraries/kicad-symbols
+# 概要
+
+KiCad-5.xのシンボルを共有するためのリポジトリです。
+
