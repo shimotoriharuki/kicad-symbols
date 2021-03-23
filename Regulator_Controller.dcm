@@ -282,6 +282,11 @@ K Switching Regulator Controller
 F https://www.analog.com/media/en/technical-documentation/data-sheets/1624f.pdf
 $ENDCMP
 #
+$CMP LTC3245EMSE
+D Adjustable Frequency current Mode Flyback DC/DC controller, MSOP-12
+F https://www.analog.com/media/en/technical-documentation/data-sheets/3245fa.pdf
+$ENDCMP
+#
 $CMP LTC3805xMSE
 D Adjustable Frequency current Mode Flyback DC/DC controller, MSOP-10
 K flyback dc-dc switcher switching

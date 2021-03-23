@@ -4290,6 +4290,10 @@ K LDO ADJ
 F https://www.analog.com/media/en/technical-documentation/data-sheets/LT1762.pdf
 $ENDCMP
 #
+$CMP LT1933-SOT23
+F https://www.analog.com/media/en/technical-documentation/data-sheets/1933fe.pdf
+$ENDCMP
+#
 $CMP LT1962
 D 300mA, Adjustable, Low Noise, Micropower LDO Regulator, MSOP-8
 K LDO ADJ
@@ -4386,9 +4390,19 @@ K LDO voltage regulator fixed
 F https://www.analog.com/media/en/technical-documentation/data-sheets/1963aff.pdf
 $ENDCMP
 #
+$CMP LT1963EFE-3.3
+D 3.3V, 2.0A, Low Noise, Fast Transient Response LDO Regulator, TSSOP-16
+F https://www.analog.com/media/en/technical-documentation/data-sheets/1963aff.pdf
+$ENDCMP
+#
 $CMP LT1963EQ
 D 1.5A, Adjustable, Low Noise, Linear Voltage Regulator, TO-263-5
 K low noise voltage regulator
+F https://www.analog.com/media/en/technical-documentation/data-sheets/1963fc.pdf
+$ENDCMP
+#
+$CMP LT1963EST-3.3
+D 3.3V, 2.0A, Low Noise, Fast Transient Response LDO Regulator, SOT-223
 F https://www.analog.com/media/en/technical-documentation/data-sheets/1963fc.pdf
 $ENDCMP
 #
@@ -6094,6 +6108,10 @@ $CMP NCV8114BSN330T1G
 D 300mA, Low Noise, Linear Regulator without output active discharge function, 1.7-5.5V input voltage range, 3.3V fixed positive output, TSOT-23-5
 K linear regulator ldo fixed positive
 F https://ru.mouser.com/datasheet/2/308/NCV8114-D-1107616.pdf
+$ENDCMP
+#
+$CMP NJM2884U1-33
+F https://www.mouser.jp/datasheet/2/294/NJM2884_2884A_E-1917554.pdf
 $ENDCMP
 #
 $CMP NVC8674DS120

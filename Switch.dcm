@@ -1,5 +1,16 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP JS1300AQ
+D 5-position navigation, Very low profile SMT design, Unique design
+K switch
+F https://sten-eswitch-13110800-production.s3.amazonaws.com/system/asset/product_line/data_sheet/21/JS1300.pdf
+$ENDCMP
+#
+$CMP SKRHAAE010
+D 4-direction with Center-push Function (Surface Mount Type)
+F https://www.mouser.jp/datasheet/2/15/SKRH-1370966.pdf
+$ENDCMP
+#
 $CMP SW_Coded
 D Rotary switch, 4-bit encoding
 K rotary hex

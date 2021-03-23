@@ -30,6 +30,12 @@ K accelerometer gyro mems motion
 F http://www.invensense.com/wp-content/uploads/2016/10/DS-000176-ICM-20602-v1.0.pdf
 $ENDCMP
 #
+$CMP ICM-20648
+D 6-Axis MEMS MotionTracking™ Device with Enhanced EIS Support and Sensor
+K accelerometer gyro mems motion
+F https://3cfeqx1hf82y3xcoull08ihx-wpengine.netdna-ssl.com/wp-content/uploads/2017/07/DS-000179-ICM-20648-v1.2-TYP.pdf
+$ENDCMP
+#
 $CMP ICM-20948
 D InvenSense 9-Axis Motion Sensor, Accelerometer, Gyroscope, Compass, I2C/SPI, QFN-24
 K mems magnetometer
