@@ -1482,6 +1482,10 @@ K 4Ch 4In Quad Digital Isolator 150Mbps
 F https://www.silabs.com/documents/public/data-sheets/si864x-datasheet.pdf
 $ENDCMP
 #
+$CMP Si8660BA
+F https://www.mouser.jp/datasheet/2/368/Si866x-1223680.pdf
+$ENDCMP
+#
 $CMP TCMT1100
 D Optocoupler, Vce 70V, CTR 50-600%, Viso 3750V (RMS), SOP-4
 K NPN DC opto

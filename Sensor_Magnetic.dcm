@@ -252,6 +252,12 @@ K I2C magnetic 3-axis sensor
 F http://www.memsic.com/userfiles/files/DataSheets/Magnetic-Sensors-Datasheets/MMC5883MA-RevC.pdf
 $ENDCMP
 #
+$CMP MMC5983MA
+D 3-axis Magnetic Sensor, I2C Interface, LGA-16
+K I2C magnetic 3-axis sensor
+F http://www.memsic.com/uploadfiles/2020/08/20200827165332520.pdf
+$ENDCMP
+#
 $CMP SM351LT
 D Hall Effect Switch, SOT-23
 K Hall Effect Switch Sensor

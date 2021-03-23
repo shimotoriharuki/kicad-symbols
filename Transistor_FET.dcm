@@ -2388,6 +2388,12 @@ K HEXFET N-Channel MOSFET
 F http://www.irf.com/product-info/datasheets/data/irf8721pbf-1.pdf
 $ENDCMP
 #
+$CMP IRF8915
+D 8.9A Id, 20V Vds, 14.6mOhm Rds, N-Channel MOSFET
+K N-Channel MOSFET
+F https://www.components-mart.jp/datasheets/41/IRF8915.pdf
+$ENDCMP
+#
 $CMP IRF9383M
 D -22A Id, -30V Vds, 2.9mOhm Rds, P-Channel MOSFET, DirectFET MX
 K P-Channel MOSFET
@@ -2748,6 +2754,11 @@ K N-Channel MOSFET
 F https://www.vishay.com/docs/71432/si7450dp.pdf
 $ENDCMP
 #
+$CMP Si7463DP
+D 11A Id, 40V Vds, 7.5mOhm Ron, PowerPAK-8
+F https://www.vishay.com/docs/72440/si7463dp.pdf
+$ENDCMP
+#
 $CMP SiA449DJ
 D -12A Id, -30V Vds, P-Channel MOSFET, PowerPAK SC70-6
 K P-Channel MOSFET
@@ -2950,6 +2961,10 @@ $CMP ZXMP4A16G
 D -6.4A Id, -40V Vds, P-Channel MOSFET, SOT-223
 K P-Channel MOSFET
 F https://www.diodes.com/assets/Datasheets/ZXMP4A16G.pdf
+$ENDCMP
+#
+$CMP uPA2815T1S
+F https://akizukidenshi.com/download/ds/renesas/UPA2815T1S.pdf
 $ENDCMP
 #
 #End Doc Library

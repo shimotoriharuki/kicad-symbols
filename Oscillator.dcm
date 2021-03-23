@@ -96,6 +96,12 @@ K Crystal Clock Oscillator ECS SMD
 F https://www.ecsxtal.com/store/pdf/ECS-2520MV.pdf
 $ENDCMP
 #
+$CMP ECS-2520S
+D HCMOS Crystal Clock Oscillator, 2.5x2.0 mm SMD
+K Crystal Clock Oscillator ECS SMD
+F https://ecsxtal.com/store/pdf/ECS-2520S.pdf
+$ENDCMP
+#
 $CMP FT5HN
 D HCMOS temperature compensated oscillator
 K TXCO

@@ -52,6 +52,12 @@ K piezo driver boost
 F http://www.ti.com/lit/ds/symlink/drv8662.pdf
 $ENDCMP
 #
+$CMP DRV8701E
+D H-Bridge Motor Driver, VQFN-24
+K H-Bridge Motor Driver
+F https://www.ti.com/lit/ds/symlink/drv8701.pdf?ts=1616465054026&ref_url=https%253A%252F%252Fwww.google.com%252F
+$ENDCMP
+#
 $CMP DRV8711
 D Stepper motor controller, external N-channel MOSFET, single bipolar stepper motor, dual brushed DC motors
 K Stepper driver
